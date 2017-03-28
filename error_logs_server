@@ -1,0 +1,1 @@
+[Wed Mar 15 22:16:08.793638 2017] [core:error] [pid 9540:tid 1984] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:63190] AH00127: Cannot map GET /%3C!DOCTYPE%20html%3E%3Chtml%3E%20%20%20%20%3Chead%3E%20%20%20%20%20%20%20%20%3Cmeta%20charset= HTTP/1.1 to file, referer: http://localhost/
